@@ -11,7 +11,7 @@
 
 - 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects.
 - 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune.
-- 📝 I regularly write blogs on [https://medium.com/@harshwardhanpatil07](https://medium.com/@harshwardhanpatil07)
+- 📝 &nbsp; I regularly write blogs on [https://medium.com/@harshwardhanpatil07](https://medium.com/@harshwardhanpatil07)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,17 +23,26 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
+  ![C Language](https://img.shields.io/badge/-C_Language-333333?style=flat&logo=C&logoColor=#A8B9CC)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=#563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=#61DAFB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=#339933)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=#150458)
+  
+
+  
  
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=#00878F)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
