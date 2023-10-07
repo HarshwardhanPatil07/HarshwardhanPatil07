@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/patilharshwardhan/" target="blank"><img align="center" src="https://github.com/HarshwardhanPatil07/HarshwardhanPatil07/assets/126240589/b665771e-84fd-4a35-8448-0543124c5893" alt="https://www.linkedin.com/in/patilharshwardhan/"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/patilharshwardhan/" target="_blank"><img align="center" src="https://github.com/HarshwardhanPatil07/HarshwardhanPatil07/assets/126240589/b665771e-84fd-4a35-8448-0543124c5893" alt="https://www.linkedin.com/in/patilharshwardhan/"/>LinkedIn</a>
 </p>
 
 
