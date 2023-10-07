@@ -46,7 +46,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
+<!--
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshwardhanpatil07&show_icons=true&locale=en" alt="harshwardhanpatil07" /></p>
 
@@ -57,7 +57,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhanpatil07&theme=buefy&layout=compact" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshwardhanpatil07&" alt="harshwardhanpatil07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshwardhanpatil07&" alt="harshwardhanpatil07" /></p>  -->
+
+<hr>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshwardhanPatil07&theme=react&line_height=40&hide=css"/> </a>
+
+![Harshwardhan's github stats](https://github-readme-stats2-blush.vercel.app/api?username=HarshwardhanPatil07&theme=react&showicons=true)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanPatil07&theme=react)](https://git.io/streak-stats)
 
 <!--
 **HarshwardhanPatil07/HarshwardhanPatil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
