@@ -1,5 +1,7 @@
 
-![Banner](https://camo.githubusercontent.com/c16cd6216e49fac1a014812082ce44f80be914895f28e489392b5ee2365cbab4/68747470733a2f2f747566757475726f2e636c2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f426c6f672d506f73742d477261706869632d486f772d746f2d64657369676e2d7468652d706572666563742d4d4d535f6769662e676966)
+[![An image of @harshwardhanpatil07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
+
+<!--- ![Banner](https://camo.githubusercontent.com/c16cd6216e49fac1a014812082ce44f80be914895f28e489392b5ee2365cbab4/68747470733a2f2f747566757475726f2e636c2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f426c6f672d506f73742d477261706869632d486f772d746f2d64657369676e2d7468652d706572666563742d4d4d535f6769662e676966)  -->
 
 <h1>
   <a>
@@ -11,7 +13,7 @@
 </h1>
   </a>
 </h1>
-[![@harshwardhanpatil07's Holopin board](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
+
 
 
 
