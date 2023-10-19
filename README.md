@@ -11,7 +11,7 @@
 </h1>
   </a>
 </h1>
-
+[![An image of @harshwardhanpatil07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
 <h2 align="center">Welcome to my world of captivating charisma! Life is a beautiful journey. I invite you to join me on a delightful exploration of the two passions!</h2>
 
