@@ -73,6 +73,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshwardhanpatil07&" alt="harshwardhanpatil07" /></p>  -->
 
+
+
+###
+<h3 align="left">Profile Views Count:</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HarshwardhanPatil07/count.svg?"  />
+</div>
 <hr>
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshwardhanPatil07&theme=react&line_height=40&hide=css"/> </a>
