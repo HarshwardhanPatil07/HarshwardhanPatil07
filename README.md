@@ -25,7 +25,6 @@
 
 - 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects.
 - 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune.
-- 📝 &nbsp; I regularly write blogs on [https://medium.com/@harshwardhanpatil07](https://medium.com/@harshwardhanpatil07)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
