@@ -23,7 +23,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects with DevOps.
+- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects with DevOps Culture.
 - 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune.
 
 <h3 align="left">Connect with me:</h3>
