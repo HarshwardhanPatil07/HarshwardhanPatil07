@@ -23,7 +23,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects with DevOps Culture.
+- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects with DevOps culture.
 - 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune.
 
 <h3 align="left">Connect with me:</h3>
@@ -55,7 +55,6 @@
 
 - 🔧 &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
