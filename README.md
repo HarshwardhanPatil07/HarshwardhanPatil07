@@ -1,7 +1,7 @@
+[![Harshwardhan Patil Holopin](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
-[![An image of @harshwardhanpatil07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
-
+<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
 
 <h1>
   <a>
@@ -14,17 +14,14 @@
   </a>
 </h1>
 
-
-
-
 <h2 align="center">Let's Count the Stars Together! 🔭 Can We Together!? 😄</h2>
-
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Development projects with DevOps culture.
-- 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune.
+- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Development projects with DevOps culture
+- 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune
+
+<img src="https://github.com/HarshwardhanPatil07/assets/blob/main/Tim-Tim-developer.gif" align="right" width="26%" alt="Tim-Tim">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +29,10 @@
 <a href="https://www.linkedin.com/in/patilharshwardhan/" target="_blank">LinkedIn</a>
 </p>
 
+
+
+
+<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -67,14 +68,16 @@
 
 
 
-
-
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshwardhanPatil07&theme=react&line_height=40&hide=css"/> </a>
-
-![Harshwardhan's github stats](https://github-readme-stats2-blush.vercel.app/api?username=HarshwardhanPatil07&theme=react&showicons=true)
-
+<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanPatil07&theme=react)](https://git.io/streak-stats)
+<img src="https://github.com/HarshwardhanPatil07/assets/blob/main/hipikachu.gif" align="right" width="15%" alt="pikachu-hi">
 
-
+<div align="center">
+  <a href="">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanPatil07&custom_title=Languages%20I%20have%20used&layout=compact&theme=react&hide_border=true&hide_title=true" />
+  </a>
+  <a href="">
+    <img align="left" src="https://github-readme-stats2-blush.vercel.app/api?username=HarshwardhanPatil07&theme=react&showicons=true"/>
+  </a>
+</div>
