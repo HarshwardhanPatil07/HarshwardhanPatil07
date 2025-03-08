@@ -1,7 +1,7 @@
 [![Harshwardhan Patil Holopin](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
 
-<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
+<img width="100%" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif">
 
 <h1>
   <a>
@@ -21,7 +21,7 @@
 - 🤔 &nbsp; I love to explore new technologies and work on Full Stack Development projects with DevOps culture
 - 🎓 &nbsp; Pursuing Bachelor's in VIT,Pune
 
-<img src="https://github.com/HarshwardhanPatil07/assets/blob/main/Tim-Tim-developer.gif" align="right" width="26%" alt="Tim-Tim">
+<img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/Tim-Tim-developer.gif" align="right" width="26%" alt="Tim-Tim">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@
 
 
 
-<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
+<img width="100%" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -68,10 +68,10 @@
 
 
 
-<img width="100%" src="https://github.com/HarshwardhanPatil07/assets/blob/main/divider.gif">
+<img width="100%" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanPatil07&theme=react)](https://git.io/streak-stats)
-<img src="https://github.com/HarshwardhanPatil07/assets/blob/main/hipikachu.gif" align="right" width="15%" alt="pikachu-hi">
+<img src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/hipikachu.gif" align="right" width="15%" alt="pikachu-hi">
 
 
 
@@ -79,7 +79,7 @@
   <a href="">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanPatil07&custom_title=Languages%20I%20have%20used&layout=compact&theme=react&hide_border=true&hide_title=true" />
   <a href="">
-    <img align="right" src="https://github.com/HarshwardhanPatil07/assets/blob/main/doggo.gif" width="32%" alt="cutie">
+    <img align="right" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/doggo.gif" width="32%" alt="cutie">
   </a>
   </a>
   <a href="">
