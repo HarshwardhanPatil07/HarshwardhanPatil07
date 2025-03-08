@@ -73,9 +73,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshwardhanPatil07&theme=react)](https://git.io/streak-stats)
 <img src="https://github.com/HarshwardhanPatil07/assets/blob/main/hipikachu.gif" align="right" width="15%" alt="pikachu-hi">
 
+
+
 <div align="center">
   <a href="">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanPatil07&custom_title=Languages%20I%20have%20used&layout=compact&theme=react&hide_border=true&hide_title=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshwardhanPatil07&custom_title=Languages%20I%20have%20used&layout=compact&theme=react&hide_border=true&hide_title=true" />
+  <a href="">
+    <img align="right" src="https://github.com/HarshwardhanPatil07/assets/blob/main/doggo.gif" width="32%" alt="cutie">
+  </a>
   </a>
   <a href="">
     <img align="left" src="https://github-readme-stats2-blush.vercel.app/api?username=HarshwardhanPatil07&theme=react&showicons=true"/>
