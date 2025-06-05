@@ -14,7 +14,7 @@
   </a>
 </h1>
 
-<h2 align="center">Let's Count the Stars Together! 🔭 Can We Together!? 😄</h2>
+<h2 align="center">God's Got a Plan! You just need to be Honest in what you're doing 😄</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
