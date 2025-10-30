@@ -1,5 +1,5 @@
-[![Harshwardhan Patil Holopin](https://holopin.io/api/user/board?user=harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
+[![An image of @harshwardhanpatil07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
 <img width="100%" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif">
 
