@@ -1,9 +1,4 @@
 
-<a href="https://holopin.io/@harshwardhanpatil07">
-  <img src="https://holopin.io/api/user/board?user=harshwardhanpatil07" alt="@harshwardhanpatil07's Holopin board" />
-</a>
-
-
 [![@harshwardhanpatil07's Holopin board](https://holopin.io/api/user/board?user=harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
 
