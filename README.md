@@ -1,9 +1,6 @@
 
 [![@harshwardhanpatil07's Holopin board](https://holopin.io/api/user/board?user=harshwardhanpatil07)](https://holopin.io/@harshwardhanpatil07)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshwardhanPatil07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <img width="100%" src="https://raw.githubusercontent.com/HarshwardhanPatil07/assets/main/divider.gif">
 
